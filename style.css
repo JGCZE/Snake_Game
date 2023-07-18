@@ -1,0 +1,73 @@
+body {
+    background: #ffbf00;
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid red;
+}
+
+h3 {
+    font-family: verdana;
+}
+
+
+#gameOverCard {
+    border: 5px solid black;
+    background-color: red;
+    height: 140px;
+    width: 300px;
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+#gameOverCard h4 {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+#input {
+    width: 300px;
+    height: 100px;
+}
+
+.obrazky {
+    display: flex;
+}
+
+#obrazky div {
+    margin: 0 10px;
+}
+
+#one {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#two {
+    width: 100px;
+    height: 100px;
+    background-color: green
+}
+
+#three {
+    width: 100px;
+    height: 100px;
+    background-color: blue
+} */
